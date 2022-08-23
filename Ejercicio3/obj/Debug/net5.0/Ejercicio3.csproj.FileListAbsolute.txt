@@ -1,0 +1,15 @@
+C:\Users\W\Documents\GitHub\EjerciciosEnCsharp\Ejercicio3\bin\Debug\net5.0\Ejercicio3.exe
+C:\Users\W\Documents\GitHub\EjerciciosEnCsharp\Ejercicio3\bin\Debug\net5.0\Ejercicio3.deps.json
+C:\Users\W\Documents\GitHub\EjerciciosEnCsharp\Ejercicio3\bin\Debug\net5.0\Ejercicio3.runtimeconfig.json
+C:\Users\W\Documents\GitHub\EjerciciosEnCsharp\Ejercicio3\bin\Debug\net5.0\Ejercicio3.runtimeconfig.dev.json
+C:\Users\W\Documents\GitHub\EjerciciosEnCsharp\Ejercicio3\bin\Debug\net5.0\Ejercicio3.dll
+C:\Users\W\Documents\GitHub\EjerciciosEnCsharp\Ejercicio3\bin\Debug\net5.0\ref\Ejercicio3.dll
+C:\Users\W\Documents\GitHub\EjerciciosEnCsharp\Ejercicio3\bin\Debug\net5.0\Ejercicio3.pdb
+C:\Users\W\Documents\GitHub\EjerciciosEnCsharp\Ejercicio3\obj\Debug\net5.0\Ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\W\Documents\GitHub\EjerciciosEnCsharp\Ejercicio3\obj\Debug\net5.0\Ejercicio3.AssemblyInfoInputs.cache
+C:\Users\W\Documents\GitHub\EjerciciosEnCsharp\Ejercicio3\obj\Debug\net5.0\Ejercicio3.AssemblyInfo.cs
+C:\Users\W\Documents\GitHub\EjerciciosEnCsharp\Ejercicio3\obj\Debug\net5.0\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\W\Documents\GitHub\EjerciciosEnCsharp\Ejercicio3\obj\Debug\net5.0\Ejercicio3.dll
+C:\Users\W\Documents\GitHub\EjerciciosEnCsharp\Ejercicio3\obj\Debug\net5.0\ref\Ejercicio3.dll
+C:\Users\W\Documents\GitHub\EjerciciosEnCsharp\Ejercicio3\obj\Debug\net5.0\Ejercicio3.pdb
+C:\Users\W\Documents\GitHub\EjerciciosEnCsharp\Ejercicio3\obj\Debug\net5.0\Ejercicio3.genruntimeconfig.cache
