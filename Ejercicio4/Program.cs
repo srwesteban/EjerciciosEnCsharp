@@ -6,6 +6,7 @@ namespace Ejercicio4
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Funcion Convertir\n");
             Console.WriteLine("Elije una opcion");
             Console.WriteLine("1.Decimal a Binario");
             Console.WriteLine("2.Binario a Decimal");            
