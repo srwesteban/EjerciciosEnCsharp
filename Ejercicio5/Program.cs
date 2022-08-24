@@ -6,9 +6,12 @@ namespace Ejercicio5
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Ingresa cuantos numeros deseas generar");
-            int num = Convert.ToInt32(Console.ReadLine());            
-            Fibonacci(num);            
+            Console.WriteLine("Funcion fibbonacci\n");
+            Console.WriteLine("Ingresa un numero");
+            int num = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Serie: ");
+            Fibonacci(num);  
+            
         }
         public static void Fibonacci(int f)
         {
@@ -18,15 +21,16 @@ namespace Ejercicio5
             {
                 if (i % 2 == 1)
                 {
-                    Console.WriteLine(a);
+                    Console.Write(a +",");
                     a = a + b;
                 }
                 else
                 {
-                    Console.WriteLine(b);
+                    Console.Write(b+",");
                     b = b + a;
                 }
             }
+            Console.WriteLine();
         }
     }
 }
